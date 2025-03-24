@@ -1,6 +1,7 @@
 教材/
-*.vscode
+.vscode/
 *.exe
 分组情况.xlsx
 *.o
 main
+output/
