@@ -4,8 +4,8 @@ class.xlsx
 *.o
 main
 output/
-main
 *.s
 *.ii
 *.o
-text/C++语言程序设计.pdf
+*.in
+C++语言程序设计.pdf
